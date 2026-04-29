@@ -6,6 +6,7 @@
 ## 📊 Dashboard Overview
 
 This project explores HR data to uncover patterns in employee hiring, demographics, performance, and termination reasons — helping HR teams make data-driven decisions.
+<img width="1515" height="854" alt="image" src="https://github.com/user-attachments/assets/e42505a8-7038-4917-85a1-49ec5e119e45" />
 
 ---
 
